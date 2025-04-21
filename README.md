@@ -13,7 +13,7 @@
 
 1. Окно входа
    
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk6---/blob/master/screenshots/screen%201.jpeg)
 
 2.Окно входа (Ошибка ввода данных)
 
