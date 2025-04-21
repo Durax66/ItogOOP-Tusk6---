@@ -11,13 +11,13 @@
 
 ## Скриншоты
 
-1. Окно входа
+1. Окно входа:
    
    ![](https://github.com/Durax66/ItogOOP-Tusk6---/blob/master/screenshots/screen%201.jpeg)
 
-2.Окно входа (Ошибка ввода данных)
+2.Окно регистрации: 
 
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk6---/blob/master/screenshots/screen%202.jpeg)
 ## Установка
 
 1. Клонируйте репозиторий:
